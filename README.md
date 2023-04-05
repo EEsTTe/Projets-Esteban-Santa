@@ -1,2 +1,1 @@
-Cette page répertorie tout les projets informatique que j'ai réalisé au lycée. Seul ou à plusieurs, réalisé dans le cadre des cours.
-nlkclv
+Ce projet a été réalisé avec deux camarades de classes en première 2021-2022. Il sagit d'un puissance 4 sans interface graphique.
